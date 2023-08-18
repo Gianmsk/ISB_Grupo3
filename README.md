@@ -23,8 +23,7 @@ Este curso desarrollará los conocimientos necesarios para el tratamiento de se�
 - Eduardo André Cuti Riveros (colaborador) ,  eduardo.cuti@upch.pe 
 
 ### Foto grupal
-
- 
+![WhatsApp Image 2023-08-18 at 11 01 11](https://github.com/arianacarbajal/ISB_Grupo3/assets/43280063/72c7ea97-672b-4abe-af04-a6af517c1542)
 
 ### Temática del proyecto
 
